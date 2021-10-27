@@ -1,0 +1,17 @@
+Assignment 1
+1. Create a file with the following content:
+class Test {
+public static void main(String[] args) {
+System.out.println(“My first Java program.”);
+}
+}
+Compile and run the program.
+2. Write a Java program with a main function in which you initialise two
+integers with two constants. The program will compute and print the
+maximum of the two values.
+3. Write a Java program that will print the even numbers between 1 and
+100, compute and print the sum of the odd numbers between 1 and 100.
+4. Print the next sequence of characters using for.
+* * *
+* *
+*
