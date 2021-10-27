@@ -1,0 +1,5 @@
+Dear students,
+
+The System Theory and Automatization (STA) course involves: (1) the study of the fundamental problems of system theory with focus on continuous-time and discrete-time dynamical systems, (2) gaining an understanding of the functional operation of a variety of techniques specific to automation with focus on process control, (3) the study of the theoretic foundations of control systems, (4) learning analytical approaches to analyze and study systems properties, and (5) gaining experience in the design and implementation of control systems. The objective will be to gain a "hands-on" working knowledge of several of the main techniques in system theory and control systems and an introduction to some promising directions in their multi-disciplinary, technical and scientific usage.
+
+The lectures will start in the fifth week, and are organized in several chapters. You will receive the slides and/or the lecture material in pdf forms, step by step, after updating them using the experience in the previous academic year. You will also receive the links to the Zoom meetings before each lecture.
