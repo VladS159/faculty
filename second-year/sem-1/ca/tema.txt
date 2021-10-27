@@ -1,0 +1,7 @@
+4. Proposed exercises
+1) Implement, using Verilog language, a converter (BCD-8421) based on the
+following truth table:
+2) Implement, using Verilog language, a module for detecting multiples of 3 at
+its inputs.
+3) Construct, using Verilog language, a module that provides at its output the
+most significant decimal digit of the unsigned integer connected to its input.
