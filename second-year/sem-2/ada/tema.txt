@@ -1,0 +1,9 @@
+Learn  to design algorithms that are correct and efficient
+How do we know that:
+an algorithm is correct ? ->  correctness proofs
+an algorithm is efficient ?  ->  analysis of algorithms (time complexity)
+How to design solutions for new problems ?
+Learning general techniques for design
+Studying a set of well-known algorithms, to serve as examples of success stories for applying  general design techniques
+Become aware that good algorithms are key parts of software engineering practice ! 
+
