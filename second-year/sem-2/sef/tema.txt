@@ -1,0 +1,25 @@
+Team Members: John Doe, Jane Smith
+General Description:
+This application aims to help both clients and restaurants by offering the possibility to
+increase restaurant revenues and offer easy access to a huge variety of dishes to customers.
+Registration (for both Customer and Restaurant):
+The user needs to first register into the application by selecting one of the 2 roles: client or
+restaurant manager. Both roles require a unique username, a password and the basic
+information like full name / restaurant name, address and phone number.
+Restaurant:
+After the restaurant manager logs in, he can add, edit or delete the items on his menu. A
+menu item should contain its name, calories number, price and optionally a picture.
+Also, after logging in, he will see a list of the orders for the current day.
+From the list of orders, the restaurant can reject or approve an order, specifying a rejection
+reason, or respectively the estimated delivery time.
+Customer:
+A customer needs to login into the application where he will be able to see a list with all the
+restaurants. The list should be searchable by the restaurant’s name.
+A logged in customer can also see the products of a specific restaurant, by selecting the
+restaurant from the list.
+Also, logged in customers can select any quantity for any number of menu items for a single
+restaurant, and create an order containing the selected items.
+A logged in customer can also see a list of past orders, with their status (accepted, rejected,
+pending or delivered). If the order is rejected, the rejection reason will also be displayed. If
+the order has been accepted, the estimated delivery time will also be displayed. A customer
+will mark an accepted order as delivered
