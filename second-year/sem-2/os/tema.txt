@@ -1,0 +1,12 @@
+Test 1 – Files, directories, processes, signals [40 minutes]
+Topics to be evaluated
+- Operations on files using sytem calls: reading, writing, creating files.
+- Extracting information about files.
+- Directory entry management.
+- Creating and deleting links and files.
+- Creating processes and retrieving their exit status.
+- Retrieving information about processes.
+- Handling, ignoring, reseting behaviour (triggered by) signals (by using sigaction only), signal
+sending.
+- Processing command-line arguments.
+Grading
