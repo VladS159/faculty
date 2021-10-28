@@ -1,0 +1,16 @@
+Remember:
+• In order to save your changes, you have to recompile the project from the
+’Recompile’ green button.
+• A disadvantage of using Overleaf (free edition) in big teams is that the
+owner of the project can share the project with only one editor, so the
+other teammates from the team won’t be able to make changes to the
+files. But you can split your work and everyone can write a chapter or at
+least some sections and you can combine them in the end.
+• Each one of you will have to upload the documentation on Campus. I will
+read only one documentation from each team (they have to be the same)
+and I will read only the answers to the conclusions chapter (I expect
+them to be unique because I assume each one of you has a different
+opinion).
+• You documentation should not be longer than 12 pages. I know for some
+of you it’s harder to come up with a lot of words, but remember that the
+documentation also has tables, code sequences, figures.
